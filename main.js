@@ -1,5 +1,5 @@
 // to start to render content 
-// OK SO THE CODE DOESNT WORK, 
+// OK SO THE CODE DOESNT WORK..still
 // i will figure this out tomorrow
 function main() {
     const canvas = document.querySelector("#glCanvas");
